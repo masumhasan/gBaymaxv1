@@ -102,7 +102,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -141,7 +140,6 @@ cython_debug/
 .idea/
 
 # VS Code
-.vscode/
 *.code-workspace
 
 # Local History for Visual Studio Code
@@ -225,11 +223,6 @@ Temporary Items
 # ===== PROJECT SPECIFIC =====
 
 # Environment variables
-.env
-.env.local
-.env.production
-.env.staging
-.env.development
 
 # Virtual environments
 venv/
@@ -390,7 +383,6 @@ build/
 *.egg-info/
 
 # IDE files
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -509,3 +501,7 @@ transformers_cache/
 install_*.log
 setup_*.log
 installation_*.txt
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
