@@ -141,7 +141,6 @@ cython_debug/
 .idea/
 
 # VS Code
-.vscode/
 *.code-workspace
 
 # Local History for Visual Studio Code
@@ -390,7 +389,6 @@ build/
 *.egg-info/
 
 # IDE files
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -509,3 +507,6 @@ transformers_cache/
 install_*.log
 setup_*.log
 installation_*.txt
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
